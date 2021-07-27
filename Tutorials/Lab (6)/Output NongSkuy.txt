@@ -1,0 +1,71 @@
+Menu dengan nama Telur Dadar sudah ditambahkan di Bahari Jaya
+Menu dengan nama Sop sudah ditambahkan di Bahari Jaya
+Menu dengan nama Ayam Goreng sudah ditambahkan di Bahari Jaya
+Menu dengan nama Ati Ampela sudah ditambahkan di Bahari Jaya
+Menu dengan nama Sop telah di update
+
+Menu dengan nama Kopi Aceh sudah ditambahkan di Puma
+Menu dengan nama Kopi Depok sudah ditambahkan di Puma
+Menu dengan nama Kopi KW tidak ada
+Menu dengan nama Kopi Luwak sudah ditambahkan di Puma
+Menu dengan nama Kopi Luwak telah di update
+Menu dengan nama Kopi ABC sudah ditambahkan di Puma
+
+Menu dengan nama French Fries sudah ditambahkan di Pinang Coffee
+Menu dengan nama Banana Nugget sudah ditambahkan di Pinang Coffee
+Menu dengan nama Matcha Latte sudah ditambahkan di Pinang Coffee
+Menu dengan nama Americano sudah ditambahkan di Pinang Coffee
+
+Menu dengan nama Sate Kulit Ayam sudah ditambahkan di Angkringan Kutek
+Menu dengan nama Sate Daging Ayam sudah ditambahkan di Angkringan Kutek
+Menu dengan nama Sate Usus Ayam sudah ditambahkan di Angkringan Kutek
+Menu dengan nama Sate Telur Puyuh sudah ditambahkan di Angkringan Kutek
+
+Berikut adalah info tiap-tiap tempat:
+1) Bahari Jaya dengan jangkauan harga Rp 3000 - Rp 7000
+2) Puma dengan jangkauan harga Rp 3000 - Rp 20000
+3) Pinang Coffee dengan jangkauan harga Rp 15000 - Rp 23000
+4) Angkringan Kutek dengan jangkauan harga Rp 3000 - Rp 3000
+
+*** Tempat yang semua menunya dalam harga 3000-8000
+Berikut adalah info tiap-tiap tempat:
+1) Bahari Jaya dengan jangkauan harga Rp 3000 - Rp 7000
+2) Angkringan Kutek dengan jangkauan harga Rp 3000 - Rp 3000
+
+*** Tempat yang semua menunya dalam harga 10000-15000
+Tidak ada tempat yang ditemukan.
+
+*** Kamu bisa makan ditempat ini kalau punya uang 14000
+Berikut adalah info tiap-tiap tempat:
+1) Bahari Jaya dengan jangkauan harga Rp 3000 - Rp 7000
+2) Puma dengan jangkauan harga Rp 3000 - Rp 20000
+3) Angkringan Kutek dengan jangkauan harga Rp 3000 - Rp 3000
+
+Menu dengan nama Sate Daging Ayam sudah dihapus di Angkringan Kutek
+Menu dengan nama Kopi KW tidak ada
+Menu dengan nama Kopi ABC sudah dihapus di Puma
+
+*** Kamu bisa makan ditempat ini kalau punya uang 10000
+Berikut adalah info tiap-tiap tempat:
+1) Bahari Jaya dengan jangkauan harga Rp 3000 - Rp 7000
+2) Puma dengan jangkauan harga Rp 4000 - Rp 20000
+3) Angkringan Kutek dengan jangkauan harga Rp 3000 - Rp 3000
+
+*** Tempat yang semua menunya dalam harga 4000-10000
+Tidak ada tempat yang ditemukan.
+
+*** Tempat yang semua menunya dalam harga 3000-10000
+Berikut adalah info tiap-tiap tempat:
+1) Bahari Jaya dengan jangkauan harga Rp 3000 - Rp 7000
+2) Angkringan Kutek dengan jangkauan harga Rp 3000 - Rp 3000
+
+Menu dengan nama Kopi KW sudah ditambahkan di Bahari Jaya
+
+*** Tempat yang semua menunya dalam harga 2000-7000
+Berikut adalah info tiap-tiap tempat:
+1) Bahari Jaya dengan jangkauan harga Rp 2000 - Rp 7000
+2) Angkringan Kutek dengan jangkauan harga Rp 3000 - Rp 3000
+
+*** Tempat yang semua menunya dalam harga 3000-7000
+Berikut adalah info tiap-tiap tempat:
+1) Angkringan Kutek dengan jangkauan harga Rp 3000 - Rp 3000

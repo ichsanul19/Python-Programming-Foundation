@@ -1,0 +1,281 @@
+========= Avatar Kingdom =========
+
+Avatar Darma menguasai bender Air
+Avatar Darma menguasai bender Earth
+Avatar Darma menguasai bender Water
+Avatar Teguh menguasai bender Earth
+Avatar Teguh menguasai bender Air
+Avatar Teguh menguasai bender Water
+Avatar Wurianto menguasai bender Water
+Avatar Budi menguasai bender Air
+Avatar Budi menguasai bender Earth
+Avatar Suparman menguasai bender Water
+Avatar Suparman menguasai bender Earth
+Avatar Santoso menguasai bender Air
+Avatar Santoso menguasai bender Earth
+Avatar Suhendra menguasai bender Earth
+Avatar Suhendra menguasai bender Air
+Avatar Joko menguasai bender Water
+Avatar Joko menguasai bender Water
+Avatar Setiawan menguasai bender Air
+Avatar Setiawan menguasai bender Earth
+Avatar Hermanto menguasai bender Water
+Avatar Hermanto menguasai bender Earth
+Avatar Javan menguasai bender Air
+Avatar Javan menguasai bender Earth
+Avatar Jayawan menguasai bender Water
+Avatar Jayawan menguasai bender Earth
+Avatar Jayawan menguasai bender Air
+Avatar Krisna menguasai bender Air
+Avatar Krisna menguasai bender Earth
+Avatar Kurniawan menguasai bender Water
+Avatar Kurniawan menguasai bender Air
+Avatar Sudiroprojo menguasai bender Water
+Avatar Sudiroprojo menguasai bender Air
+
+Deck Avatar Avatar Kindom 1: 
+Avatar Darma dari temple Sanctuary Of Aang, dengan nyawa 1000, dan dengan total damage 25, siap bertarung!
+Avatar Teguh dari temple Sanctuary Of Katara, dengan nyawa 850, dan dengan total damage 45, siap bertarung!
+Avatar Wurianto dari temple Sanctuary Of Aang, dengan nyawa 700, dan dengan total damage 25, siap bertarung!
+Avatar Budi dari temple Sanctuary Of Soka, dengan nyawa 850, dan dengan total damage 30, siap bertarung!
+Avatar Suparman dari temple Sanctuary Of Toph, dengan nyawa 700, dan dengan total damage 25, siap bertarung!
+Avatar Santoso dari temple The Ceremonial Oak, dengan nyawa 300, dan dengan total damage 30, siap bertarung!
+Avatar Suhendra dari temple Sanctuary Of Aang, dengan nyawa 350, dan dengan total damage 25, siap bertarung!
+Avatar Joko dari temple Temple Of Lixher, dengan nyawa 750, dan dengan total damage 30, siap bertarung!
+Avatar Setiawan dari temple Sanctuary Of Toph, dengan nyawa 700, dan dengan total damage 30, siap bertarung!
+Avatar Hermanto dari temple The Qaedrigura, dengan nyawa 850, dan dengan total damage 25, siap bertarung!
+Avatar Javan dari temple The Blessed Topiary, dengan nyawa 940, dan dengan total damage 40, siap bertarung!
+Avatar Jayawan dari temple The Frepegura, dengan nyawa 900, dan dengan total damage 30, siap bertarung!
+Avatar Krisna dari temple The Blessed Topiary, dengan nyawa 800, dan dengan total damage 25, siap bertarung!
+Avatar Kurniawan dari temple The Frepegura, dengan nyawa 300, dan dengan total damage 25, siap bertarung!
+Avatar Sudiroprojo dari temple Sanctuary Of Toph, dengan nyawa 900, dan dengan total damage 20, siap bertarung!
+
+Avatar Darma berhasil menyerang Teguh
+Avatar Darma berhasil menyerang Wurianto
+Avatar Darma berhasil menyerang Budi
+Avatar Darma berhasil menyerang Suparman
+Avatar Darma berhasil menyerang Santoso
+Avatar Darma berhasil menyerang Suhendra
+Avatar Darma berhasil menyerang Joko
+Avatar Darma berhasil menyerang Setiawan
+Avatar Darma berhasil menyerang Hermanto
+Avatar Darma berhasil menyerang Javan
+Avatar Darma berhasil menyerang Jayawan
+Avatar Darma berhasil menyerang Krisna
+Avatar Darma berhasil menyerang Kurniawan
+Avatar Darma berhasil menyerang Sudiroprojo
+
+Avatar Teguh berhasil menyerang Darma
+Avatar Teguh berhasil menyerang Wurianto
+Avatar Teguh berhasil menyerang Budi
+Avatar Teguh berhasil menyerang Suparman
+Avatar Teguh berhasil menyerang Santoso
+Avatar Teguh berhasil menyerang Suhendra
+Avatar Teguh berhasil menyerang Joko
+Avatar Teguh berhasil menyerang Setiawan
+Avatar Teguh berhasil menyerang Hermanto
+Avatar Teguh berhasil menyerang Javan
+Avatar Teguh berhasil menyerang Jayawan
+Avatar Teguh berhasil menyerang Krisna
+Avatar Teguh berhasil menyerang Kurniawan
+Avatar Teguh berhasil menyerang Sudiroprojo
+
+Avatar Wurianto berhasil menyerang Darma
+Avatar Wurianto berhasil menyerang Teguh
+Avatar Wurianto berhasil menyerang Budi
+Avatar Wurianto berhasil menyerang Suparman
+Avatar Wurianto berhasil menyerang Santoso
+Avatar Wurianto berhasil menyerang Suhendra
+Avatar Wurianto berhasil menyerang Joko
+Avatar Wurianto berhasil menyerang Setiawan
+Avatar Wurianto berhasil menyerang Hermanto
+Avatar Wurianto berhasil menyerang Javan
+Avatar Wurianto berhasil menyerang Jayawan
+Avatar Wurianto berhasil menyerang Krisna
+Avatar Wurianto berhasil menyerang Kurniawan
+Avatar Wurianto berhasil menyerang Sudiroprojo
+
+Avatar Budi berhasil menyerang Darma
+Avatar Budi berhasil menyerang Teguh
+Avatar Budi berhasil menyerang Wurianto
+Avatar Budi berhasil menyerang Suparman
+Avatar Budi berhasil menyerang Santoso
+Avatar Budi berhasil menyerang Suhendra
+Avatar Budi berhasil menyerang Joko
+Avatar Budi berhasil menyerang Setiawan
+Avatar Budi berhasil menyerang Hermanto
+Avatar Budi berhasil menyerang Javan
+Avatar Budi berhasil menyerang Jayawan
+Avatar Budi berhasil menyerang Krisna
+Avatar Budi berhasil menyerang Kurniawan
+Avatar Budi berhasil menyerang Sudiroprojo
+
+Avatar Suparman berhasil menyerang Darma
+Avatar Suparman berhasil menyerang Teguh
+Avatar Suparman berhasil menyerang Wurianto
+Avatar Suparman berhasil menyerang Budi
+Avatar Suparman berhasil menyerang Santoso
+Avatar Suparman berhasil menyerang Suhendra
+Avatar Suparman berhasil menyerang Joko
+Avatar Suparman berhasil menyerang Setiawan
+Avatar Suparman berhasil menyerang Hermanto
+Avatar Suparman berhasil menyerang Javan
+Avatar Suparman berhasil menyerang Jayawan
+Avatar Suparman berhasil menyerang Krisna
+Avatar Suparman berhasil menyerang Kurniawan
+Avatar Suparman berhasil menyerang Sudiroprojo
+
+Avatar Santoso berhasil menyerang Darma
+Avatar Santoso berhasil menyerang Teguh
+Avatar Santoso berhasil menyerang Wurianto
+Avatar Santoso berhasil menyerang Budi
+Avatar Santoso berhasil menyerang Suparman
+Avatar Santoso berhasil menyerang Suhendra
+Avatar Santoso berhasil menyerang Joko
+Avatar Santoso berhasil menyerang Setiawan
+Avatar Santoso berhasil menyerang Hermanto
+Avatar Santoso berhasil menyerang Javan
+Avatar Santoso berhasil menyerang Jayawan
+Avatar Santoso berhasil menyerang Krisna
+Avatar Santoso berhasil menyerang Kurniawan
+Avatar Santoso berhasil menyerang Sudiroprojo
+
+Avatar Suhendra berhasil menyerang Darma
+Avatar Suhendra berhasil menyerang Teguh
+Avatar Suhendra berhasil menyerang Wurianto
+Avatar Suhendra berhasil menyerang Budi
+Avatar Suhendra berhasil menyerang Suparman
+Avatar Suhendra berhasil menyerang Santoso
+Avatar Suhendra berhasil menyerang Joko
+Avatar Suhendra berhasil menyerang Setiawan
+Avatar Suhendra berhasil menyerang Hermanto
+Avatar Suhendra berhasil menyerang Javan
+Avatar Suhendra berhasil menyerang Jayawan
+Avatar Suhendra berhasil menyerang Krisna
+Avatar Suhendra berhasil menyerang Kurniawan
+Avatar Suhendra berhasil menyerang Sudiroprojo
+
+Avatar Joko berhasil menyerang Darma
+Avatar Joko berhasil menyerang Teguh
+Avatar Joko berhasil menyerang Wurianto
+Avatar Joko berhasil menyerang Budi
+Avatar Joko berhasil menyerang Suparman
+Avatar Joko berhasil menyerang Santoso
+Avatar Joko berhasil menyerang Suhendra
+Avatar Joko berhasil menyerang Setiawan
+Avatar Joko berhasil menyerang Hermanto
+Avatar Joko berhasil menyerang Javan
+Avatar Joko berhasil menyerang Jayawan
+Avatar Joko berhasil menyerang Krisna
+Avatar Joko berhasil menyerang Kurniawan
+Avatar Joko berhasil menyerang Sudiroprojo
+
+Avatar Setiawan berhasil menyerang Darma
+Avatar Setiawan berhasil menyerang Teguh
+Avatar Setiawan berhasil menyerang Wurianto
+Avatar Setiawan berhasil menyerang Budi
+Avatar Setiawan berhasil menyerang Suparman
+Avatar Setiawan berhasil menyerang Santoso
+Avatar Setiawan berhasil menyerang Suhendra
+Avatar Setiawan berhasil menyerang Joko
+Avatar Setiawan berhasil menyerang Hermanto
+Avatar Setiawan berhasil menyerang Javan
+Avatar Setiawan berhasil menyerang Jayawan
+Avatar Setiawan berhasil menyerang Krisna
+Avatar Setiawan berhasil menyerang Kurniawan
+Avatar Setiawan berhasil menyerang Sudiroprojo
+
+Avatar Hermanto berhasil menyerang Darma
+Avatar Hermanto berhasil menyerang Teguh
+Avatar Hermanto berhasil menyerang Wurianto
+Avatar Hermanto berhasil menyerang Budi
+Avatar Hermanto berhasil menyerang Suparman
+Avatar Hermanto berhasil menyerang Santoso
+Avatar Hermanto berhasil menyerang Suhendra
+Avatar Hermanto berhasil menyerang Joko
+Avatar Hermanto berhasil menyerang Setiawan
+Avatar Hermanto berhasil menyerang Javan
+Avatar Hermanto berhasil menyerang Jayawan
+Avatar Hermanto berhasil menyerang Krisna
+Avatar Hermanto berhasil menyerang Kurniawan
+Avatar Hermanto berhasil menyerang Sudiroprojo
+
+Avatar Javan berhasil menyerang Darma
+Avatar Javan berhasil menyerang Teguh
+Avatar Javan berhasil menyerang Wurianto
+Avatar Javan berhasil menyerang Budi
+Avatar Javan berhasil menyerang Suparman
+Avatar Javan berhasil menyerang Santoso
+Avatar Javan berhasil menyerang Suhendra
+Avatar Javan berhasil menyerang Joko
+Avatar Javan berhasil menyerang Setiawan
+Avatar Javan berhasil menyerang Hermanto
+Avatar Javan berhasil menyerang Jayawan
+Avatar Javan berhasil menyerang Krisna
+Avatar Javan berhasil menyerang Kurniawan
+Avatar Javan berhasil menyerang Sudiroprojo
+
+Avatar Jayawan berhasil menyerang Darma
+Avatar Jayawan berhasil menyerang Teguh
+Avatar Jayawan berhasil menyerang Wurianto
+Avatar Jayawan berhasil menyerang Budi
+Avatar Jayawan berhasil menyerang Suparman
+Nyawa dari Avatar Santoso sudah habis, tidak bisa melakukan pertarungan!
+Avatar Jayawan berhasil menyerang Suhendra
+Avatar Jayawan berhasil menyerang Joko
+Avatar Jayawan berhasil menyerang Setiawan
+Avatar Jayawan berhasil menyerang Hermanto
+Avatar Jayawan berhasil menyerang Javan
+Avatar Jayawan berhasil menyerang Krisna
+Nyawa dari Avatar Kurniawan sudah habis, tidak bisa melakukan pertarungan!
+Avatar Jayawan berhasil menyerang Sudiroprojo
+
+Avatar Krisna berhasil menyerang Darma
+Avatar Krisna berhasil menyerang Teguh
+Avatar Krisna berhasil menyerang Wurianto
+Avatar Krisna berhasil menyerang Budi
+Avatar Krisna berhasil menyerang Suparman
+Nyawa dari Avatar Santoso sudah habis, tidak bisa melakukan pertarungan!
+Avatar Krisna berhasil menyerang Suhendra
+Avatar Krisna berhasil menyerang Joko
+Avatar Krisna berhasil menyerang Setiawan
+Avatar Krisna berhasil menyerang Hermanto
+Avatar Krisna berhasil menyerang Javan
+Avatar Krisna berhasil menyerang Jayawan
+Nyawa dari Avatar Kurniawan sudah habis, tidak bisa melakukan pertarungan!
+Avatar Krisna berhasil menyerang Sudiroprojo
+
+Nyawa dari Avatar Kurniawan sudah habis, tidak bisa melakukan pertarungan!
+
+Avatar Sudiroprojo berhasil menyerang Darma
+Avatar Sudiroprojo berhasil menyerang Teguh
+Avatar Sudiroprojo berhasil menyerang Wurianto
+Avatar Sudiroprojo berhasil menyerang Budi
+Avatar Sudiroprojo berhasil menyerang Suparman
+Nyawa dari Avatar Santoso sudah habis, tidak bisa melakukan pertarungan!
+Nyawa dari Avatar Suhendra sudah habis, tidak bisa melakukan pertarungan!
+Avatar Sudiroprojo berhasil menyerang Joko
+Avatar Sudiroprojo berhasil menyerang Setiawan
+Avatar Sudiroprojo berhasil menyerang Hermanto
+Avatar Sudiroprojo berhasil menyerang Javan
+Avatar Sudiroprojo berhasil menyerang Jayawan
+Avatar Sudiroprojo berhasil menyerang Krisna
+Nyawa dari Avatar Kurniawan sudah habis, tidak bisa melakukan pertarungan!
+
+Klasemen Avatar Kindom 1: 
+1. Darma dari temple Sanctuary Of Aang, dengan sisa nyawa 620
+2. Javan dari temple The Blessed Topiary, dengan sisa nyawa 575
+3. Jayawan dari temple The Frepegura, dengan sisa nyawa 525
+4. Sudiroprojo dari temple Sanctuary Of Toph, dengan sisa nyawa 515
+5. Teguh dari temple Sanctuary Of Katara, dengan sisa nyawa 490
+6. Budi dari temple Sanctuary Of Soka, dengan sisa nyawa 475
+7. Hermanto dari temple The Qaedrigura, dengan sisa nyawa 470
+8. Krisna dari temple The Blessed Topiary, dengan sisa nyawa 420
+9. Joko dari temple Temple Of Lixher, dengan sisa nyawa 375
+10. Setiawan dari temple Sanctuary Of Toph, dengan sisa nyawa 325
+11. Wurianto dari temple Sanctuary Of Aang, dengan sisa nyawa 320
+12. Suparman dari temple Sanctuary Of Toph, dengan sisa nyawa 320
+13. Santoso dari temple The Ceremonial Oak, dengan sisa nyawa 0
+14. Suhendra dari temple Sanctuary Of Aang, dengan sisa nyawa 0
+15. Kurniawan dari temple The Frepegura, dengan sisa nyawa 0
+

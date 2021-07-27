@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <title>WaifuDB | add</title>
+        <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Muli'>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    </head>
+    <body class="text-center" style="background-color: aquamarine; font-family: 'Muli';font-size: 22px;">
+        <h1>Waifu yang ditambahkan</h1>
+        <p th:text="'waifu:' + ${waifu.name}" />
+        <p th:text="'umur:' + ${waifu.umur}" />
+        <p th:text="'deskripsi:' + ${waifu.deskripsi}" />
+        <a href="/tambah-waifu">Tambah waifu lain</a>
+    </body>
+</html>

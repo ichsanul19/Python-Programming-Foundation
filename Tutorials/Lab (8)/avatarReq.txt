@@ -1,0 +1,47 @@
+Darma;Sanctuary Of Aang;1000
+Teguh;Sanctuary Of Katara;850
+Wurianto;Sanctuary Of Aang;700
+Budi;Sanctuary Of Soka;850
+Suparman;Sanctuary Of Toph;700
+Santoso;The Ceremonial Oak;300
+Suhendra;Sanctuary Of Aang;350
+Joko;Temple Of Lixher;750
+Setiawan;Sanctuary Of Toph;700
+Hermanto;The Qaedrigura;850
+Javan;The Blessed Topiary;940
+Jayawan;The Frepegura;900
+Krisna;The Blessed Topiary;800
+Kurniawan;The Frepegura;300
+Sudiroprojo;Sanctuary Of Toph;900
+1;Air;10
+1;Earth;10
+1;Water;5
+2;Earth;15
+2;Air;10
+2;Water;20
+3;Water;25
+4;Air;20
+4;Earth;10
+5;Water;10
+5;Earth;15
+6;Air;20
+6;Earth;10
+7;Earth;15
+7;Air;10
+8;Water;15
+8;Water;15
+9;Air;20
+9;Earth;10
+10;Water;10
+10;Earth;15
+11;Air;15
+11;Earth;25
+12;Water;10
+12;Earth;10
+12;Air;10
+13;Air;10
+13;Earth;15
+14;Water;15
+14;Air;10
+15;Water;15
+15;Air;5

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <title>WaifuDB | add</title>
+        <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Muli'>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    </head>
+    <body class="text-center" style="background-color: aquamarine; font-family: 'Muli';font-size: 22px;">
+        <h1>Tambah waifu</h1>
+
+        <form th:action="@{/tambah-waifu}" th:object="${waifu}" method="POST">
+            <p> Nama waifu</p>
+            <p> <input type="text" th:field="*{name}" /></p>
+            <p> Umur waifu</p>
+            <p> <input type="text" th:field="*{umur}" /></p>
+            <p> Deskripsi waifu</p>
+            <p> <input type="text" th:field="*{deskripsi}" /></p>
+            <p></p>
+            <p>
+                <input type="submit" value="tambah"/> 
+            </p>
+        </form>
+
+        <br>
+        <br>
+        <a href="/"><button>kembali ke menu awal</button></a>
+    </body>
+</html>
